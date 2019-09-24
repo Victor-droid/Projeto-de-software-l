@@ -1,0 +1,1 @@
+A função de um método modificador é acessar  e modificar atributos de um classe. E a função de um método recuperador é receber a informação do atual estado do atributo.

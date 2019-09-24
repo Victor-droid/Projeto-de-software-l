@@ -1,0 +1,5 @@
+1. A melhor forma de utilização seria usando um for.
+2. A melhor forma de utilização seria usando um for pela quantidade de linhas que você não ocuparia.
+3. Você usaria um for( int i = 0 ; i <= 100; i++) para fazer a contagem de um numero de 1 a 100, e na soma  você usaria um for( int i = 0; i <= 100; i++) com soma +=i; para conseguir fazer a soma dos números.
+4.  Pré incremento ou o Pós incremento tem a finalidade de acelerar o processo de adicionar ou remover uma unidade de uma determinada variável.
+ 

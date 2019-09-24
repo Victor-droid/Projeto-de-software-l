@@ -1,0 +1,25 @@
+a) Falso, os metodos iniciam por conveção com uma letra maiscula porem as palavra subsequentes não.
+b) Verdadeiro
+c) Verdadeiro
+d) Verdadeiro
+e)Falso, pois a variável só pode armazenar exatamente um valor de seu tipo.
+f) Falso, para ser usada em todos os métodos ela devia ser instanciada de uma classe.
+g) Verdadeiro.
+h) Verdadeiro.
+i) Verdadeiro.
+j) Verdadeiro.
+k) Verdadeiro.
+l) Falso, pois não são inicializados por padrão.
+2.
+a) Verdadeiro.
+b) Verdadeiro .
+c) Falso, Carro tem um relacionamento de "tem um" volante ou freio.
+d) Verdadeiro.
+e)  Falso, pois uma superclasse que consegue fazer uma subclasse ser sobrecarregada com sua assinatura.
+3.
+a) Falso, em java ele só pode ser usado como true or false.
+b) Falso, um valor float armazena um valor de ponto flutuante e não maior do que um long.
+c)  Falso, pois na tabela ASCII os caracteres tabelados vão de 0 a 127.
+d) Falso, pois a linguagem tem um valor predefinido de bytes.
+e) Falso, não pois ele só representa um caracter, string representa um par de caracter.
+f) Verdadeiro.
